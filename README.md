@@ -25,7 +25,7 @@
 | 担当範囲 | ゲーム設計・実装・コース制作を含む開発全般 |
 | 使用技術 | Unity / C# / SteamVR / OpenVR / Unity UI / TextMesh Pro |
 | Unityバージョン | 2022.3.62f2 |
-| VR環境 | VIVE HMD / VIVE Controller / VIVE Tracker |
+| VR環境 | VIVE Focus Vision / VIVE Ultimate Tracker |
 | 使用機会 | 大学オープンキャンパスでの研究室紹介、体験 |
 
 ## ゲームの流れ
